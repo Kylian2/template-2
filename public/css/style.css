@@ -161,7 +161,7 @@ section {
 }
 
 .banniere {
-  background: url(/public/img/burger_2.jpeg);
+  background: url(public/img/burger_2.jpeg);
   background-size: cover;
   height: 350px;
 }
